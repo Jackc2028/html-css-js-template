@@ -1,22 +1,24 @@
 .flexbox {
     display: flex;
-    border: 2px solid blue;
+    border: 2px solid rgb(253, 203, 54);
     padding: 20px;
 }
 
 .item {
-    border: 2px solid red;
+    border: 2px solid rgb(246, 246, 246);
     padding: 20px;
 }
 #box1 {
     justify-content: space-evenly;
     background-color:rgb(35, 56, 89);
+    color: white;
 }
 
 #box2 {
     
     padding: 5px;
     justify-content: center;
+    
    
 
 }
